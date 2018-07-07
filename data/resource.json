@@ -1,0 +1,6 @@
+{"resource": {"team_name" : "Database", "employee" : {"name" : "Gerges EL Khawly", "start_time" : "09:00", "end_time" : "17:00", "workload" : 0}}}
+{"resource": {"team_name" : "Database", "employee" : {"name" : "Shibin Varghese", "start_time" : "09:00", "end_time" : "17:00", "workload" : 0}}}
+{"resource": {"team_name" : "Database", "employee" : {"name" : "Shubro Deep Mukherjee", "start_time" : "11:00", "end_time" : "19:00", "workload" : 2}}}
+{"resource": {"team_name" : "Database", "employee" : {"name" : "ITIL User", "start_time" : "11:00", "end_time" : "19:00", "workload" : 3}}}
+{"resource": {"team_name" : "Database", "employee" : {"name" : "Fred Luddy", "start_time" : "01:00", "end_time" : "09:00", "workload" : 0}}}
+{"resource": {"team_name" : "Database", "employee" : {"name" : "Beth Anglin", "start_time" : "01:00", "end_time" : "09:00", "workload" : 1}}}
